@@ -1,5 +1,7 @@
 
 A simple script to convert Blogger export to markup files, one file per article. Clearly not perfect.
 
+Each generated markup file has a YAML header, and should be compatible with toto (http://github.com/cloudhead/toto/).
+
 Usage: ruby blogger_to_markup.rb YOUR_BLOGGER_EXPORT.xml
 
