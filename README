@@ -1,0 +1,5 @@
+
+A simple script to convert Blogger export to markup files, one file per article. Clearly not perfect.
+
+Usage: ruby blogger_to_markup.rb YOUR_BLOGGER_EXPORT.xml
+
